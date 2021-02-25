@@ -1,4 +1,4 @@
-package com.javarush.task.task39.task3913.query;
+package logs_parser.query;
 
 import java.util.Set;
 
