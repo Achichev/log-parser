@@ -1,6 +1,6 @@
-package com.javarush.task.task39.task3913;
+package logs_parser;
 
-import com.javarush.task.task39.task3913.query.*;
+import logs_parser.query.*;
 import org.apache.commons.collections4.list.TreeList;
 
 import java.io.BufferedReader;
