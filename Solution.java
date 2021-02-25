@@ -1,4 +1,4 @@
-package com.javarush.task.task39.task3913;
+package logs_parser;
 
 import java.io.BufferedReader;
 import java.io.IOException;
