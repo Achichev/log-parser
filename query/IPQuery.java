@@ -1,7 +1,7 @@
-package com.javarush.task.task39.task3913.query;
+package logs_parser.query;
 
-import com.javarush.task.task39.task3913.Event;
-import com.javarush.task.task39.task3913.Status;
+import logs_parser.Event;
+import logs_parser.Status;
 
 import java.util.Date;
 import java.util.Set;
